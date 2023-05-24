@@ -1,0 +1,80 @@
+.lawyerDetailsContainer{
+    display: flex;
+    justify-content: center;
+    width: 85%;
+    height: 800px;
+    /* border: 1px solid black; */
+    margin: auto;
+}
+.image{
+    width: 20%;
+    height: 100%;
+    /* border: 1px solid red; */
+}
+.mainImage{
+    width: 100%;
+    border: .5px solid gray;
+}
+.personalDetails{
+    height: 100%;
+    width: 50%;
+    /* border: 1px solid blue; */
+    text-align: left;
+    padding: 20px 30px;
+
+}
+.appointmentSection{
+    height: 100%;
+    width: 35%;
+    padding-top: 20px;
+    /* border: 1px solid purple; */
+
+}
+
+.appointmentSection .para{
+    display: inline-block;
+    margin-right: 10px;
+
+}
+
+.price{
+    display: inline;
+    border: .5px solid black;
+
+}
+
+.appointmentSection div{
+    margin-bottom: 15px;
+    padding: 5px;
+
+}
+
+.appoDate input{
+    width: 100%;
+    padding: 2px 7px;
+}
+.appoTime{
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 2px;
+}
+
+.time{
+    border: .5px solid rgb(51, 51, 51);
+    padding: 5px;
+}
+
+.phoneConsultation, .directConsultation, .dateAndBookAppointment{
+    width: 90%;
+    margin: auto;
+}
+
+.appoBookingBtn{
+    width: 90%;
+    background-color: rgb(141, 240, 141);
+    border-radius: 10px;
+    padding: 5px 7px;
+    font-weight: bold;
+}

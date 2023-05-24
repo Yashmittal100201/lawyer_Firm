@@ -1,12 +1,14 @@
 .lawyersListContainer{
-    margin-top: 60px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     padding: 20px;
+    width: 85%;
+    margin: 60px auto ;
 }
 
 .filterContainer{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     padding: 15px;
+    margin-bottom: 25px;
 }
 
 .input{
@@ -28,6 +30,7 @@
 
 .heading{
     text-decoration: underline;
+    margin-bottom: 25px;
 }
 
 /* Link{

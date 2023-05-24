@@ -9,9 +9,13 @@
           "Singhania & Partners LLP (Ed. 1999)",
           "Remfry & Sagar"
         ],
+        "img":"../../../Images/1.jpg",
         "address": "236 Court Avenue, Meerut",
         "phone": "+91 1234567890",
-        "available_time": "9:00 AM - 5:00 PM"
+        "availableMeetingTime": ["10:00", "11:00", "12:00", "02:00", "03:00", "04:00"],
+        "bookedMeetingTime": [
+          
+        ]
       },
       {
         "id": 2,
@@ -20,9 +24,13 @@
         "firms": [
           "Kim & Co"
         ],
+        "img":"../../../Images/2.jpg",
         "address": "342 Liberty Road, Allahabad",
         "phone": "+91 9876543210",
-        "available_time": "10:00 AM - 6:00 PM"
+        "availableMeetingTime": ["10:00", "11:00", "12:00", "02:00", "03:00", "04:00"],
+        "bookedMeetingTime": [
+          
+        ]
       },
       {
         "id": 3,
@@ -32,9 +40,13 @@
           "Tatva Lega",
           "Kochhar & Co"
         ],
+        "img":"../../../Images/3.jpg",
         "address": "238 Court Avenue, Meerut",
         "phone": "+91 2345678901",
-        "available_time": "8:00 AM - 4:00 PM"
+        "availableMeetingTime": ["10:00", "11:00", "12:00", "02:00", "03:00", "04:00"],
+        "bookedMeetingTime": [
+          
+        ]
       },
       {
         "id": 4,
@@ -43,9 +55,13 @@
         "firms": [
           "Kashyap Partners & Associates"
         ],
+        "img":"../../../Images/4.jpg",
         "address": "324 Liberty Road, Allahabad",
         "phone": "+91 3456789012",
-        "available_time": "9:00 AM - 5:00 PM"
+        "availableMeetingTime": ["10:00", "11:00", "12:00", "02:00", "03:00", "04:00"],
+        "bookedMeetingTime": [
+          
+        ]
       },
       {
         "id": 5,
@@ -55,9 +71,13 @@
           "ICL Consultancy Services Private Limited",
           "Remfry & Sagar"
         ],
+        "img":"../../../Images/5.jpg",
         "address": "244 Court Avenue, Meerut",
         "phone": "+91 4567890123",
-        "available_time": "8:30 AM - 4:30 PM"
+        "availableMeetingTime": ["10:00", "11:00", "12:00", "02:00", "03:00", "04:00"],
+        "bookedMeetingTime": [
+          
+        ]
       },
       {
         "id": 6,
@@ -66,9 +86,13 @@
         "firms": [
           "Law Firms"
         ],
+        "img":"../../../Images/6.jpg",
         "address": "323 Liberty Road, Allahabad",
         "phone": "+91 5678901234",
-        "available_time": "10:00 AM - 6:00 PM"
+        "availableMeetingTime": ["10:00", "11:00", "12:00", "02:00", "03:00", "04:00"],
+        "bookedMeetingTime": [
+          
+        ]
       },
       {
         "id": 7,
@@ -77,9 +101,13 @@
         "firms": [
           "Ahlawat & Associates"
         ],
+        "img":"../../../Images/7.jpg",
         "address": "234 Court Avenue, Meerut",
         "phone": "+91 6789012345",
-        "available_time": "9:30 AM - 5:30 PM"
+        "availableMeetingTime": ["10:00", "11:00", "12:00", "02:00", "03:00", "04:00"],
+        "bookedMeetingTime": [
+          
+        ]
       },
       {
         "id": 8,
@@ -89,9 +117,13 @@
           "Luthra and Luthra Law Offices India",
           "Phoenix Legal"
         ],
+        "img":"../../../Images/8.jpg",
         "address": "322 Liberty Road, Allahabad",
         "phone": "+91 7890123486",
-        "available_time": "9:00 AM - 5:00 PM"
+        "availableMeetingTime": ["10:00", "11:00", "12:00", "02:00", "03:00", "04:00"],
+        "bookedMeetingTime": [
+          
+        ]
       },
       {
         "id": 9,
@@ -101,9 +133,13 @@
           "Krishnamurthy and Co",
           "ATLAS LAW PARTNERS"
         ],
+        "img":"../../../Images/9.jpg",
         "address": "247 Court Avenue, Meerut",
         "phone": "+91 7890156336",
-        "available_time": "9:00 AM - 5:00 PM"
+        "availableMeetingTime": ["10:00", "11:00", "12:00", "02:00", "03:00", "04:00"],
+        "bookedMeetingTime": [
+          
+        ]
       },
       {
         "id": 10,
@@ -113,9 +149,13 @@
           "Mansukhlal Hiralal & Company",
           "S&A Law Offices"
         ],
+        "img":"../../../Images/10.jpg",
         "address": "331 Liberty Road, Allahabad",
         "phone": "+91 9890523456",
-        "available_time": "9:00 AM - 5:00 PM"
+        "availableMeetingTime": ["10:00", "11:00", "12:00", "02:00", "03:00", "04:00"],
+        "bookedMeetingTime": [
+          
+        ]
       }
     ]
   }

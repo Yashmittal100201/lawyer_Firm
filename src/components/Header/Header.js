@@ -15,6 +15,7 @@ const Header = () =>{
                         className="d-inline-block align-top"
                         />
                 </div>
+                <div style={{lineHeight: "70px"}}><Nav/></div>
                 <div className='loginAndRegister'>
                     <div className='userLoginAndRegister'>
                         <LoginRegister title="User"/>
@@ -23,7 +24,7 @@ const Header = () =>{
                     </div>
                 </div>
             </div>
-            <Nav/>
+            
         </div>
     )
 }

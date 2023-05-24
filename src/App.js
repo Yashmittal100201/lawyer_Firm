@@ -1,9 +1,11 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Header from './components/Header/Header';
 import {Routes,Route} from 'react-router-dom'
 import Home from './components/Home/Home';
 import Lawyers from './components/LawyersTable/Lawyers';
+import LawyerDetails from './components/LawyersTable/LawyerDetails/LawyerDetails';
+
 function App() {
   const lawyers = [
     {
@@ -130,12 +132,11 @@ function App() {
   return (
     <div className="App">
       <Header/>
-      <Lawyers lawyersList={lawyers[0].lawyers}/>
-      {/* <Routes>
-        <Route path="/</Routes>">
-        </Route>
+      <Routes>
+        <Route path="/lawyers" element={<Lawyers/>}/>
+        <Route path='/lawyers/:name' element={<LawyerDetails/>}/>
         <Route path='/' element={<Home/>}/>
-      </Routes> */}
+      </Routes>
       
     </div>
   );
